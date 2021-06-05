@@ -1,4 +1,4 @@
-package com.hypech.case2wordgame;
+package com.hypech.case2_wordgame;
 
 import org.junit.Test;
 
