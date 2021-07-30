@@ -25,7 +25,6 @@ Getting Started
 
 Support
 -------
-
 1. Email: hypech.com@gmail.com
 2. Paperback: [Hands-on App Development in Android Studio 4.2](https://www.amazon.com/gp/product/B096TL8VMP) (22 Complete Android Cases with Step-by-Step Instruction to Grow from Novice to Android Expert)
 3. Preview: [Hands-on App Development in Android Studio 4.2](https://play.google.com/books/reader?id=9g8zEAAAQBAJ)
